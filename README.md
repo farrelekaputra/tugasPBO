@@ -40,7 +40,7 @@
 <details>
 <summary><h3> Activity Diagram</h3></summary>
 
-![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/Activity.png)
+![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/ActivityDiagram.png)
 
 </details>
 <details>

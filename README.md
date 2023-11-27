@@ -6,7 +6,7 @@
 3.  Ahmad Hamid Balya (5302422028)
 4.  Muhammad Farrel E (5302422039)
 
-## Program Source Code Refference
+## Program Source Code Reference
 [MusicByte Project](https://github.com/imshawan/musicbyte-mp3Player)
 
 ## How It Works :

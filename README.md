@@ -23,6 +23,8 @@ berikut beberapa diagram UML
 1.  UCD
    ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/ucd.png)
 2.  Usecase
-3.  Sequence
+3.  Activity
+   ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/activity.png)
+4.  Sequence
    ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/sequence.png)
-4.  Class
+5.  Class

@@ -4,7 +4,7 @@
 1.  Dita Ayu Septia Wulandari (5302422014)
 2.  Devina Damara (5302422027)
 3.  Ahmad Hamid Balya (5302422028)
-4.  Muhammad Farrel E (5302422039)
+4.  Muhammad Farrel Ekaputra (5302422039)
 
 ## Program Source Code Reference
 [MusicByte Project](https://github.com/imshawan/musicbyte-mp3Player)

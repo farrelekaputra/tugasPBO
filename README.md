@@ -29,10 +29,13 @@
 5. Beberapa aset di program utama diperoleh dari folder [assets](https://github.com/farrelekaputra/tugasPBO/blob/main/assets/)
 
 ## UML Diagrams
-### UCD
 
+<ul>UCD</ul>
+
+<li>
 ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/ucd.png)
-   
+</li>
+
 ### Usecase
 
 ### Activity

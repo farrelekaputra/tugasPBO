@@ -51,5 +51,7 @@
 </details>
 <details>
 <summary><h3> Class Diagram</h3></summary>
+    
 ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/class.png)
+
 </details>

@@ -31,7 +31,7 @@
 ## UML Diagrams
 
 <details>
-### <summary><li> UCD </li></summary>
+### <summary>UCD Diagram</summary>
 
 ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/ucd.png)
 

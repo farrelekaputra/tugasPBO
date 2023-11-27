@@ -45,3 +45,13 @@
 ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/sequence.png)
 
 ### <li> Class </li>
+
+<details>
+<summary>Klik untuk membuka dropdown</summary>
+
+Isi dropdown bisa berupa teks, gambar, atau apa pun yang kamu inginkan.
+
+1. Contoh item dropdown
+2. Item dropdown lainnya
+
+</details>

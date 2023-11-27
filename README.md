@@ -1,4 +1,4 @@
-<h1 align=center> OOP's Final Project </h1>h1
+<h1 align=center> OOP's Final Project </h1>
 ## Anggota Kelompok
 1.  Dita Ayu Septia Wulandari (5302422014)
 2.  Devina Damara (5302422027)

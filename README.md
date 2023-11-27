@@ -6,7 +6,7 @@
 4.  Muhammad Farrel E (5302422039)
 
 ## Program Source Code Refference
-[MusicByte](https://github.com/imshawan/musicbyte-mp3Player)
+[MusicByte Project](https://github.com/imshawan/musicbyte-mp3Player)
 
 ## How It Works :
 1. Pastikan dahulu komponen yang diperlukan sudah terinstall dan sesuai pada versi dibawah

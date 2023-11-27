@@ -19,13 +19,13 @@
       eyed3==0.9.6
       tkinter==8.6
     ```
-    #### Atau bisa juga dengan menginstall [requirement.txt](https://github.com/farrelekaputra/tugasPBO/blob/main/requirements.txt) dilakukan dengan perintah 
+    #### Atau bisa juga dengan menginstall [requirement.txt](https://github.com/farrelekaputra/tugasPBO/blob/main/requirements.txt) dengan perintah 
    Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the modules from requirements.txt
       ```bash
       pip install -r /path/to/requirements.txt
       ```
-3. Install font bold, reguler, dan thin terlebih dahulu pada folder [Fonts](https://github.com/farrelekaputra/tugasPBO/blob/main/Fonts/)
-4. Buka [final.py](https://github.com/farrelekaputra/tugasPBO/blob/main/final.py) untuk menjalankan program
+3. Install font bold, reguler, dan thin terlebih dahulu pada folder [Fonts](https://github.com/farrelekaputra/tugasPBO/blob/main/Fonts/) 
+4. Buka [main.py](https://github.com/farrelekaputra/tugasPBO/blob/main/main.py) untuk menjalankan program
 5. Beberapa aset di program utama diperoleh dari folder [assets](https://github.com/farrelekaputra/tugasPBO/blob/main/assets/)
 
 ## UML Diagrams

@@ -37,24 +37,22 @@
 
 </details>
 
-### <li> Usecase </li>
+<details>
+<summary><h3> Usecase Diagram</h3></summary>
 
-### <li> Activity </li>
+<details>
+<summary><h3> Activity Diagram</h3></summary>
 
 ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/activity.png)
-   
-### <li> Sequence </li>
+
+</details>
+<details>
+<summary><h3> Sequence Diagram</h3></summary>
    
 ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/sequence.png)
 
-### <li> Class </li>
-
+</details>
 <details>
-<summary>Klik untuk membuka dropdown</summary>
-
-Isi dropdown bisa berupa teks, gambar, atau apa pun yang kamu inginkan.
-
-1. Contoh item dropdown
-2. Item dropdown lainnya
+<summary><h3> Class Diagram</h3></summary>
 
 </details>

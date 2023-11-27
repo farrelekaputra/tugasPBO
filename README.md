@@ -21,10 +21,11 @@ how it works :
 
 berikut beberapa diagram UML
 1.  UCD
-   ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/ucd.png)
-2.  Usecase
-3.  Activity
+
+![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/ucd.png)
+3.  Usecase
+4.  Activity
    ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/activity.png)
-4.  Sequence
+5.  Sequence
    ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/sequence.png)
-5.  Class
+6.  Class

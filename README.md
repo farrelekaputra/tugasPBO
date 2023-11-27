@@ -16,7 +16,11 @@ https://github.com/imshawan/musicbyte-mp3Player
       audio-metadata==0.11.1
       eyed3==0.9.6
       tkinter==8.6
-    #### atau bisa juga instalasi requirement.txt dilakukan dengan perintah pip install -r requirement.txt
+    #### atau bisa juga instalasi requirement.txt dilakukan dengan perintah 
+         Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the modules from requirements.txt
+            ```bash
+            pip install -r /path/to/requirements.txt
+            ```
 3. Install font bold, reguler, dan thin terlebih dahulu pada folder font
 4. selanjutnya buka final.py untuk menjalankan program GUI
 5. beberapa aset di program utama diperoleh dari folder assets

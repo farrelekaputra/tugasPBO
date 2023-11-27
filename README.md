@@ -6,17 +6,19 @@
 4.  Muhammad Farrel E (5302422039)
 
 ## Program Source Code Refference
-https://github.com/imshawan/musicbyte-mp3Player
+[MusicByte](https://github.com/imshawan/musicbyte-mp3Player)
 
 ## How It Works :
 1. Pastikan dahulu komponen yang diperlukan sudah terinstall dan sesuai pada versi dibawah
+    ```
       Pillow==8.0.1
       pygame==2.0.1
       mutagen==1.45.1
       audio-metadata==0.11.1
       eyed3==0.9.6
       tkinter==8.6
-    #### atau bisa juga instalasi requirement.txt dilakukan dengan perintah 
+    ```
+    #### Atau bisa juga dengan menginstall [requirement.txt](https://github.com/farrelekaputra/tugasPBO/blob/main/requirements.txt) dilakukan dengan perintah 
    Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the modules from requirements.txt
       ```bash
       pip install -r /path/to/requirements.txt
@@ -29,13 +31,15 @@ https://github.com/imshawan/musicbyte-mp3Player
 ### 1.  UCD
 
 ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/ucd.png)
+   
+### 2.  Usecase
 
-### 2.  Activity
+### 3.  Activity
 
 ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/activity.png)
    
-### 3.  Sequence
+### 4.  Sequence
    
 ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/sequence.png)
 
-### 4.  Class
+### 5.  Class

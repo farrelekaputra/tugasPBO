@@ -1,6 +1,6 @@
 <h1 align=center> OOP's Final Project </h1>
 
-## Anggota Kelompok
+## Members of The Group 6
 1.  Dita Ayu Septia Wulandari (5302422014)
 2.  Devina Damara (5302422027)
 3.  Ahmad Hamid Balya (5302422028)

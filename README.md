@@ -25,7 +25,7 @@
       pip install -r /path/to/requirements.txt
       ```
 3. Install font bold, reguler, dan thin terlebih dahulu pada folder font
-4. selanjutnya buka final.py untuk menjalankan program GUI
+4. Buka [final.py](https://github.com/farrelekaputra/tugasPBO/blob/main/final.py) untuk menjalankan program
 5. beberapa aset di program utama diperoleh dari folder assets
 
 ## UML Diagrams

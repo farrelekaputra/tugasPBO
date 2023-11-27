@@ -46,7 +46,7 @@
 <details>
 <summary><h3> Sequence Diagram</h3></summary>
    
-![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/Sequence.png)
+![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/SequenceDiagram.png)
 
 </details>
 <details>

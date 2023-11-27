@@ -24,9 +24,9 @@
       ```bash
       pip install -r /path/to/requirements.txt
       ```
-3. Install font bold, reguler, dan thin terlebih dahulu pada folder font
+3. Install font bold, reguler, dan thin terlebih dahulu pada folder [Fonts](https://github.com/farrelekaputra/tugasPBO/blob/main/Fonts/)
 4. Buka [final.py](https://github.com/farrelekaputra/tugasPBO/blob/main/final.py) untuk menjalankan program
-5. beberapa aset di program utama diperoleh dari folder assets
+5. Beberapa aset di program utama diperoleh dari folder [assets](https://github.com/farrelekaputra/tugasPBO/blob/main/assets/)
 
 ## UML Diagrams
 ### UCD

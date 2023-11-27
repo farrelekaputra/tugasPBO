@@ -30,18 +30,18 @@
 
 ## UML Diagrams
 
-### UCD
+### <li> UCD </li>
 
 ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/ucd.png)
 
-### Usecase
+### <li> Usecase </li>
 
-### Activity
+### <li> Activity </li>
 
 ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/activity.png)
    
-### Sequence
+### <li> Sequence </li>
    
 ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/sequence.png)
 
-### Class
+### <li> Class </li>

@@ -15,12 +15,14 @@ how it works :
       eyed3==0.9.6
       tkinter==8.6
     instalasi requirement.txt dilakukan dengan perintah pip install -r requirement.txt
-3.  Install font terlebih dahulu pada folder font
+3.  Install font bold, reguler, dan thin terlebih dahulu pada folder font
 4. selanjutnya buka final.py untuk menjalankan program GUI
 5. beberapa aset di program utama diperoleh dari folder assets
 
 berikut beberapa diagram UML
 1.  UCD
+   ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/ucd.png)
 2.  Usecase
 3.  Sequence
+   ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/sequence.png)
 4.  Class

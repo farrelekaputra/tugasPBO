@@ -1,12 +1,13 @@
-Anggota Kelompok
+#Anggota Kelompok
 1.  Dita Ayu Septia Wulandari (5302422014)
 2.  Devina Damara (5302422027)
 3.  Ahmad Hamid Balya (5302422028)
 4.  Muhammad Farrel E (5302422039)
 
-source code program : https://github.com/imshawan/musicbyte-mp3Player
+#source code program
+https://github.com/imshawan/musicbyte-mp3Player
 
-how it works :
+#how it works :
 1.  pastikan dahulu komponen yang diperlukan sudah terinstall dan sesuai pada versi dibawah
       Pillow==8.0.1
       pygame==2.0.1
@@ -19,7 +20,7 @@ how it works :
 4. selanjutnya buka final.py untuk menjalankan program GUI
 5. beberapa aset di program utama diperoleh dari folder assets
 
-berikut beberapa diagram UML
+#UML Diagrams
 1.  UCD
 
 ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/ucd.png)

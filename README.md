@@ -36,10 +36,10 @@
 ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/ucd.png)
 
 </details>
-
 <details>
 <summary><h3> Usecase Diagram</h3></summary>
 
+</details>
 <details>
 <summary><h3> Activity Diagram</h3></summary>
 

@@ -30,11 +30,9 @@
 
 ## UML Diagrams
 
-<ul>UCD</ul>
+### UCD
 
-<li>
 ![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/ucd.png)
-</li>
 
 ### Usecase
 

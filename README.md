@@ -40,18 +40,18 @@
 <details>
 <summary><h3> Activity Diagram</h3></summary>
 
-![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/ActivityDiagram.png)
+![Alt text](diagrams/ActivityDiagram.png)
 
 </details>
 <details>
 <summary><h3> Sequence Diagram</h3></summary>
    
-![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/SequenceDiagram.png)
+![Alt text](diagrams/SequenceDiagram.png)
 
 </details>
 <details>
 <summary><h3> Class Diagram</h3></summary>
     
-![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/Class.png)
+![Alt text](diagrams/Class.png)
 
 </details>

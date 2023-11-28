@@ -52,6 +52,6 @@
 <details>
 <summary><h3> Class Diagram</h3></summary>
     
-![Alt text](diagrams/Class.png)
+![Alt text](diagrams/class.png)
 
 </details>

@@ -32,35 +32,35 @@
 
 <details>
 <summary><h3>UCD</h3></summary>
-<a align=center>
+<div align=center>
 
 ![Alt text](diagrams/UCD.png)
 
-</a>
+</div>
 
 </details>
 
 <details>
 <summary><h3> Activity Diagram</h3></summary>
-<a align=center>
+<div align=center>
 
 ![Alt text](diagrams/ActivityDiagram.png)
 
-</a>
+</div>
 </details>
 <details>
 <summary><h3> Sequence Diagram</h3></summary>
-<a align=center>
+<div align=center>
 
 ![Alt text](diagrams/SequenceDiagram.png)
 
-</a>
+</div>
 </details>
 <details>
 <summary><h3> Class Diagram</h3></summary>
-<a align=center>
+<div align=center>
 
 ![Alt text](diagrams/class.png)
 
-</a>
+</div>
 </details>

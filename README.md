@@ -10,7 +10,10 @@
 [MusicByte Project](https://github.com/imshawan/musicbyte-mp3Player)
 
 <details>
-<summary><h2>Screenshots</h2></summary>
+<summary>
+    
+## Screenshots
+</summary>
 
 ![screenshot1](screenshots/Screenshot1.png)
 ![screenshot2](screenshots/Screenshot2.png)

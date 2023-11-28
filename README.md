@@ -10,8 +10,7 @@
 [MusicByte Project](https://github.com/imshawan/musicbyte-mp3Player)
     
 ## Screenshots
-<details>
-<summary><h3>screenshot 1</h3></summary>
+<details><summary><h3>screenshot 1</h3></summary>
 <div align=center>
 
 ![screenshot1](screenshots/Screenshot1.png)
@@ -45,9 +44,7 @@
 5. Beberapa aset di program utama diperoleh dari folder [assets](https://github.com/farrelekaputra/tugasPBO/blob/main/assets/)
 
 ## UML Diagrams
-
-<details>
-<summary><h3>UCD</h3></summary>
+<details><summary><h3>UCD</h3></summary>
 <div align=center>
 
 ![Alt text](diagrams/UCD.png)

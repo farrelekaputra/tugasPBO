@@ -9,21 +9,6 @@
 ## Program Source Code Reference
 [MusicByte Project](https://github.com/imshawan/musicbyte-mp3Player)
     
-## Screenshots
-<details><summary><h3>Screenshot 1</h3></summary>
-<div align=center>
-
-![screenshot1](screenshots/Screenshot1.png)
-</div>
-</details>
-<details>
-<summary><h3>Screenshot 2</h3></summary>
-<div align=center>
-
-![screenshot2](screenshots/Screenshot2.png)
-</details>
-</div>
-
 ## How It Works
 1. Pastikan dahulu komponen yang diperlukan sudah terinstall dan sesuai pada versi dibawah
     ```
@@ -42,6 +27,21 @@
 3. Install font bold, reguler, dan thin terlebih dahulu pada folder [Fonts](https://github.com/farrelekaputra/tugasPBO/blob/main/Fonts/) 
 4. Buka [main.py](https://github.com/farrelekaputra/tugasPBO/blob/main/main.py) untuk menjalankan program
 5. Beberapa aset di program utama diperoleh dari folder [assets](https://github.com/farrelekaputra/tugasPBO/blob/main/assets/)
+
+## Screenshots
+<details><summary><h3>Screenshot 1</h3></summary>
+<div align=center>
+
+![screenshot1](screenshots/Screenshot1.png)
+</div>
+</details>
+<details>
+<summary><h3>Screenshot 2</h3></summary>
+<div align=center>
+
+![screenshot2](screenshots/Screenshot2.png)
+</details>
+</div>
 
 ## UML Diagrams
 <details><summary><h3>UCD</h3></summary>

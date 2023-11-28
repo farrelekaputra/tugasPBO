@@ -1,4 +1,4 @@
-<h1 align=center> OOP's Final Project </h1>
+<h1 align=center> OOP's Final Project: Music Player Using Tkinter and Pygame</h1>
 
 ## Members of The Group 6
 1.  Dita Ayu Septia Wulandari (5302422014)

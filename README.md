@@ -8,17 +8,22 @@
 
 ## Program Source Code Reference
 [MusicByte Project](https://github.com/imshawan/musicbyte-mp3Player)
-
-<details>
-<summary>
     
 ## Screenshots
-</summary>
+<details>
+<summary><h3>screenshot1</h3></summary>
+<div align=center>
 
 ![screenshot1](screenshots/Screenshot1.png)
-![screenshot2](screenshots/Screenshot2.png)
-
+</div>
 </details>
+<details>
+<summary><h3>screenshot1</h3></summary>
+<div align=center>
+
+![screenshot2](screenshots/Screenshot2.png)
+</details>
+</div>
 
 ## How It Works :
 1. Pastikan dahulu komponen yang diperlukan sudah terinstall dan sesuai pada versi dibawah

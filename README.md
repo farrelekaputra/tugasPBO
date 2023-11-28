@@ -24,7 +24,7 @@
 </details>
 </div>
 
-## How It Works :
+## How It Works
 1. Pastikan dahulu komponen yang diperlukan sudah terinstall dan sesuai pada versi dibawah
     ```
       Pillow==8.0.1

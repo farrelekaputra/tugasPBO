@@ -33,7 +33,7 @@
 <details>
 <summary><h3>UCD</h3></summary>
 
-![Alt text](https://github.com/farrelekaputra/tugasPBO/blob/main/diagrams/UCD.png)
+![Alt text](diagrams/UCD.png)
 
 </details>
 

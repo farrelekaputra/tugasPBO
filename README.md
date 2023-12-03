@@ -47,7 +47,7 @@
 <details><summary><h3>UCD</h3></summary>
 <div align=center>
 
-![Alt text](diagrams/Use Case Diagram.png)
+![Alt text](diagrams/UseCaseDiagram.png)
 
 </div>
 
@@ -57,7 +57,7 @@
 <summary><h3> Activity Diagram</h3></summary>
 <div align=center>
 
-![Alt text](diagrams/Activity diagram.png)
+![Alt text](diagrams/Activitydiagram.png)
 
 </div>
 </details>
@@ -65,7 +65,7 @@
 <summary><h3> Sequence Diagram</h3></summary>
 <div align=center>
 
-![Alt text](diagrams/Sequence diagram.png)
+![Alt text](diagrams/Sequencediagram.png)
 
 </div>
 </details>

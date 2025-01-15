@@ -1,6 +1,4 @@
-# import smtplib
-# import platform
-import iconsbase64
+from vendor import iconsbase64 as icons
 from tkinter import *
 import tkinter as tk
 import pygame, threading
@@ -18,23 +16,23 @@ import random
 class WINDOW:
     def __init__(self):
         # icons, images path
-        self.MAIN = "assets/IconLogo.png"
-        self.LOGO = "assets/logo.png"
-        self.PAUSE = "assets/pause.png"
-        self.PLAY = "assets/play.png"
-        self.DEVOL = "assets/muted.png"
-        self.INVOL = "assets/notmuted.png"
-        self.FOREWARD = "assets/next.png"
-        self.BACK = "assets/prev.png"
-        self.MUSIC = "assets/music.png"
-        self.FOLDER = "assets/folder.png"
-        self.SHUFFLE = "assets/shuffle.png"
-        self.SHUFFLEON = "assets/shuffleon.png"
-        self.REPEAT = "assets/repeat.png"
-        self.REPEATON = "assets/repeaton.png"
-        self.LEFT_FRAME = "assets/left_bar.png"
-        self.RIGHT_FRAME = "assets/right_bar.png"
-        self.NOImg = iconsbase64.NOImage
+        self.MAIN = "assets/icons/IconLogo.png"
+        self.LOGO = "assets/icons/logo.png"
+        self.PAUSE = "assets/icons/pause.png"
+        self.PLAY = "assets/icons/play.png"
+        self.DEVOL = "assets/icons/muted.png"
+        self.INVOL = "assets/icons/notmuted.png"
+        self.FOREWARD = "assets/icons/next.png"
+        self.BACK = "assets/icons/prev.png"
+        self.MUSIC = "assets/icons/music.png"
+        self.FOLDER = "assets/icons/folder.png"
+        self.SHUFFLE = "assets/icons/shuffle.png"
+        self.SHUFFLEON = "assets/icons/shuffleon.png"
+        self.REPEAT = "assets/icons/repeat.png"
+        self.REPEATON = "assets/icons/repeaton.png"
+        self.LEFT_FRAME = "assets/icons/left_bar.png"
+        self.RIGHT_FRAME = "assets/icons/right_bar.png"
+        self.NOImg = icons.NOImage
         
         # colors
         self.textColor = 'white'

@@ -19,27 +19,27 @@
       eyed3==0.9.6
       tkinter==8.6
     ```
-    #### Atau bisa juga dengan menginstall [requirement.txt](https://github.com/farrelekaputra/tugasPBO/blob/main/requirements.txt) dengan perintah 
+    #### Atau bisa juga dengan menginstall [requirements.txt](requirements.txt) dengan perintah 
    Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the modules from requirements.txt
       ```bash
       pip install -r /path/to/requirements.txt
       ```
 3. Install font bold, reguler, dan thin terlebih dahulu pada folder [Fonts](https://github.com/farrelekaputra/tugasPBO/blob/main/Fonts/) 
-4. Buka [main.py](https://github.com/farrelekaputra/tugasPBO/blob/main/main.py) untuk menjalankan program
-5. Beberapa aset di program utama diperoleh dari folder [assets](https://github.com/farrelekaputra/tugasPBO/blob/main/assets/)
+4. Buka [main.py](main.py) untuk menjalankan program
+5. Beberapa aset di program utama diperoleh dari folder [assets](assets/)
 
 ## Screenshots
 <details><summary><h3>Screenshot 1</h3></summary>
 <div align=center>
 
-![screenshot1](screenshots/Screenshot1.png)
+![screenshot1](docs/screenshots/Screenshot1.png)
 </div>
 </details>
 <details>
 <summary><h3>Screenshot 2</h3></summary>
 <div align=center>
 
-![screenshot2](screenshots/Screenshot2.png)
+![screenshot2](docs/screenshots/Screenshot2.png)
 </details>
 </div>
 
@@ -47,7 +47,7 @@
 <details><summary><h3>UCD</h3></summary>
 <div align=center>
 
-![Alt text](diagrams/UseCaseDiagram.png)
+![Alt text](docs/diagrams/UseCaseDiagram.png)
 
 </div>
 
@@ -57,7 +57,7 @@
 <summary><h3> Activity Diagram</h3></summary>
 <div align=center>
 
-![Alt text](diagrams/Activitydiagram.png)
+![Alt text](docs/diagrams/Activitydiagram.png)
 
 </div>
 </details>
@@ -65,7 +65,7 @@
 <summary><h3> Sequence Diagram</h3></summary>
 <div align=center>
 
-![Alt text](diagrams/Sequencediagram.png)
+![Alt text](docs/diagrams/Sequencediagram.png)
 
 </div>
 </details>
@@ -73,7 +73,7 @@
 <summary><h3> Class Diagram</h3></summary>
 <div align=center>
 
-![Alt text](diagrams/class.png)
+![Alt text](docs/diagrams/class.png)
 
 </div>
 </details>

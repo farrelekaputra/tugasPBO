@@ -1,6 +1,7 @@
 mp3playerCache
 docs/diagrams
 docs/screenshots
+docs/templates
 .idea
 .venv
 .vscode
